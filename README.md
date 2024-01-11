@@ -1,2 +1,17 @@
-# rust-tutorial
-Rust Tutorial
+# Rust Tutorial 
+每年都要学习一门新的编程语言。用于开阔自己的眼界， 发现更多编程语言的特性。
+
+当前最新的版本 1.57.0，希望大版本更新前，本系列教程能够写完。
+
+**第一章：Rust 的概述与入门**
+
+- 1.1 Rust 简介
+- 1.2 Rust 安装 Linux、MacOS、Windows
+- 1.3 Rust 的 Hello world
+
+**第二章：Rust 的语法基础**
+
+- 2.1 变成基础知识介绍
+- 2.2 变量与可变性
+- 2.3 数据类型
+
